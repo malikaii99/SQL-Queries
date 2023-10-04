@@ -15,6 +15,8 @@ Your task is to examine the organization’s data in their employees and log_in_
 
 <h2>Work load</h2>
 
+- <a> Full PDF </a>
+  - [PDF includes screenshot](https://github.com/malikaii99/File-Management-Permission-Using-Linux/blob/973655cae8cd1c3bbbb9d6bbfcc7d231cee3142f/File%20permissions%20in%20Linux%20.pdf)
 
 To accomplish this objective, I undertook the following actions:
 
