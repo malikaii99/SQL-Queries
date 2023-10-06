@@ -1,4 +1,4 @@
-# SQL-Queries-Practice
+# SQL Queries Practice
 <h1>Description</h1>
 
 My role within the organization involves enhancing the security of our system. My responsibilities include guaranteeing the system's safety, conducting thorough investigations of potential security issues, and making necessary updates to employee computers. Below, I will illustrate instances where I leveraged SQL in conjunction with filters to carry out security-oriented tasks.
